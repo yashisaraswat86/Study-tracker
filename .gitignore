@@ -1,0 +1,33 @@
+# Frontend dependencies
+study-tracker-frontend/node_modules/
+
+# Backend dependencies
+study-tracker-backend/node_modules/
+
+# Environment variables
+study-tracker-frontend/.env
+study-tracker-frontend/.env.local
+study-tracker-backend/.env
+study-tracker-backend/.env.local
+
+# Frontend build
+study-tracker-frontend/dist/
+
+# Backend build
+study-tracker-backend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backup ZIP files
+*.zip
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
